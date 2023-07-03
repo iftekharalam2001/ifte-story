@@ -5,3 +5,4 @@ my ssc gpa is 5.00
 my hse gpa is 5.00
 i am 20 years old
 i take my bacular degree from iiuc
+date of birth: 1/1/2001
